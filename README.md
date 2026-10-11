@@ -1,7 +1,9 @@
 <div align="center">
 
-# 🤖 Introduction to Artificial Intelligence
+# 🧠 AI & Machine Learning Course
 ### Taught in Amharic · አማርኛ
+
+**Learn • Build • Apply**
 
 *Learn AI in your own language.*
 
@@ -9,15 +11,14 @@
 
 ![status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 ![language](https://img.shields.io/badge/taught%20in-Amharic-orange?style=for-the-badge)
-![focus](https://img.shields.io/badge/focus-Artificial%20Intelligence-blue?style=for-the-badge)
-![cohort](https://img.shields.io/badge/cohort-selected%20from%20300%20applicants-purple?style=for-the-badge)
+![duration](https://img.shields.io/badge/duration-6%20weeks-blue?style=for-the-badge)
+![schedule](https://img.shields.io/badge/classes-Saturday%20%26%20Sunday-purple?style=for-the-badge)
 ![license](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge)
 
 <br>
 
 **Instructor:** Wongel Dawit — Researcher, Language and Spatial Technologies Lab, CMU-Africa<br>
-**In collaboration with:** Bahir Dar University & CS Made Easy<br>
-**Format:** Live classes, in Amharic · Attendance mandatory
+**Made possible by the partnership of** [Bahir Dar University](https://www.bdu.edu.et) **&** [CS Made Easy](https://github.com/nethen-ui/CS-Made-Easy-Textbook)
 
 </div>
 
@@ -25,12 +26,23 @@
 
 ## 🌍 What This Is
 
-This repository is the home of our **Introduction to Artificial Intelligence** course: lecture materials, assignments, and resources for a cohort of learners **selected from a pool of 300 applicants**.
+This repository is the home of our **AI & Machine Learning Course**: a 6-week program that takes you from the mathematical foundations of machine learning to real, hands-on projects, **taught entirely in Amharic**.
 
-The whole course is taught in **Amharic**. AI is shaping the world, and the people building it should not have to learn it in a language that isn't theirs.
+Everything the course produces lives here: lecture slides, notes, practice exercises, project material, and resources. It is **open to everyone**. Whether you are following along live or learning on your own later, you can use these materials.
 
 > [!NOTE]
 > This repository is a living project. Materials are added as the course progresses, so check back after every class.
+
+---
+
+## 🤝 Partnership
+
+This course is made possible by the partnership of:
+
+| | Partner | Role |
+|---|---|---|
+| 🎓 | **Bahir Dar University** | Academic partner |
+| 💻 | **[CS Made Easy](https://github.com/nethen-ui/CS-Made-Easy-Textbook)** | Student-led coding education initiative in Ethiopia, authors of the *Introduction to Programming with Python* textbook |
 
 ---
 
@@ -43,7 +55,7 @@ The whole course is taught in **Amharic**. AI is shaping the world, and the peop
 **Wongel Dawit**<br>
 *Researcher, Language and Spatial Technologies Lab, CMU-Africa*
 
-You are not learning from someone reading a textbook. You are learning from a researcher who is actively working and contributing to this field. Make the most of it.
+You are learning from a researcher who is actively working and contributing to this field, not just reading about it.
 
 </td>
 </tr>
@@ -51,18 +63,27 @@ You are not learning from someone reading a textbook. You are learning from a re
 
 ---
 
-## 📜 Course Rules
+## 🗓️ 6-Week Schedule
 
-| | Rule | Details |
-|---|---|---|
-| ✅ | **Attendance is mandatory** | No class may be missed without prior permission from the admins. |
-| 🗣️ | **Language of instruction** | The course is taught in Amharic. If you cannot speak or understand Amharic, DM an admin. |
-| 🙋 | **Participation** | Be attentive in class and ask questions whenever you need clarification. |
-| 💬 | **Group discipline** | Messages unrelated to the course topic are not allowed in the group. |
+Classes run on **Saturdays and Sundays**.
 
-> [!IMPORTANT]
-> Need permission to miss a class? Contact the admins **before** the class:
-> [@n_a_t_h_a_n_w](https://t.me/n_a_t_h_a_n_w) · [@MikiyasShegaw](https://t.me/MikiyasShegaw)
+```mermaid
+flowchart LR
+    A[📐 Week 1<br/>Math for ML] --> B[⚙️ Week 2<br/>ML Algorithms]
+    B --> C[📝 Week 3<br/>NLP]
+    C --> D[📈 Week 4<br/>AI Trends]
+    D --> E[💻 Week 5<br/>Projects]
+    E --> F[🏆 Week 6<br/>Final Exam]
+```
+
+| Week | Topic | What you'll cover | Days |
+|:-:|---|---|---|
+| **1** | 📐 **Math for ML** | Build the mathematical foundation for machine learning: linear algebra essentials and calculus basics | Sat & Sun |
+| **2** | ⚙️ **ML Algorithms & Use Cases** | Learn popular algorithms and where they are used. **Sat:** study different ML algorithms & use cases · **Sun:** practical exercise | Sat & Sun |
+| **3** | 📝 **Natural Language Processing (NLP)** | Understand how machines work with human language: NLP concepts and applications | Sat & Sun |
+| **4** | 📈 **Current Trends in AI** | Explore the latest developments and real-world impact of AI: key trends and future direction | Sat & Sun |
+| **5** | 💻 **Practical Exercise** | Apply what you've learned by building real projects: hands-on project work | Sat & Sun |
+| **6** | 🏆 **Final Exam** | Show what you've learned and get certified | Sat & Sun |
 
 ---
 
@@ -73,6 +94,7 @@ You are not learning from someone reading a textbook. You are learning from a re
 | 📖 **`lectures/`** | Slides and notes for every class |
 | 📝 **`assignments/`** | Exercises to reinforce what was taught |
 | 🧪 **`notebooks/`** | Hands-on code and practice notebooks |
+| 🚀 **`projects/`** | Material for the Week 5 hands-on projects |
 | 🔗 **`resources/`** | Recommended reading, videos, and tools |
 | 📸 **`photos/`** | Documentation of real class sessions |
 
@@ -80,43 +102,19 @@ You are not learning from someone reading a textbook. You are learning from a re
 
 ---
 
-## 🗓️ Course Roadmap
-
-```mermaid
-flowchart LR
-    A[🎓 Class 1<br/>Kickoff] --> B[📖 Lectures]
-    B --> C[📝 Assignments]
-    C --> D[🧪 Hands-on Practice]
-    D --> E[🚀 Final Project]
-```
-
-<details>
-<summary><b>📚 Class-by-class schedule (click to expand)</b></summary>
-
-<br>
-
-| Class | Topic | Materials |
-|:-:|---|:-:|
-| 1 | _Coming soon_ | — |
-| 2 | _Coming soon_ | — |
-| 3 | _Coming soon_ | — |
-
-</details>
-
----
-
 ## 🎯 What You Will Be Able to Do
 
 By the end of this course, you will not just know the vocabulary of AI. You will be able to:
 
-- 🧠 Understand how AI systems actually work
-- 🔍 Break down and analyze real problems with an AI mindset
-- 🛠️ Apply core ideas through hands-on practice
-- 🌱 Keep learning on your own, in any language
+- 📐 Understand the math that machine learning is built on
+- ⚙️ Recognize popular ML algorithms and know where each one is used
+- 📝 Explain how machines work with human language
+- 📈 Follow the latest trends and the real-world impact of AI
+- 💻 Build and apply what you've learned in real projects
 
 ---
 
-## 🤝 How to Use This Repo
+## 🙌 How to Use This Repo
 
 1. **Star** ⭐ this repository so you can find it easily
 2. **Clone** it to your computer:
@@ -127,7 +125,7 @@ By the end of this course, you will not just know the vocabulary of AI. You will
    ```bash
    git pull
    ```
-4. Attend, ask questions, and do the assignments
+4. Work through the lectures, do the exercises, and build something
 
 ---
 
@@ -145,6 +143,6 @@ Course materials are published under the **Creative Commons Attribution-NonComme
 
 *Taught in Amharic, built for learners, and made to open the door to AI for everyone.*
 
-**See you in class! 🚀**
+**Learn • Build • Apply 🚀**
 
 </div>
