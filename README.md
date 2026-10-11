@@ -11,7 +11,6 @@
 
 ![status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)
 ![language](https://img.shields.io/badge/taught%20in-Amharic-orange?style=for-the-badge)
-![schedule](https://img.shields.io/badge/classes-Saturday%20%26%20Sunday-purple?style=for-the-badge)
 ![license](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=for-the-badge)
 
 <br>
