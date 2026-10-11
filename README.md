@@ -16,7 +16,7 @@
 <br>
 
 **Instructor:** Wongel Dawit — Researcher, Language and Spatial Technologies Lab, CMU-Africa<br>
-**Made possible by the partnership of** [Bahir Dar University](https://www.bdu.edu.et) **&** [CS Made Easy](https://github.com/nethen-ui/CS-Made-Easy-Textbook)
+**Made possible by the partnership with** [CS Made Easy](https://github.com/nethen-ui/CS-Made-Easy-Textbook)
 
 </div>
 
@@ -39,7 +39,6 @@ This course is made possible by the partnership of:
 
 | | Partner | Role |
 |---|---|---|
-| 🎓 | **Bahir Dar University** | Academic partner |
 | 💻 | **[CS Made Easy](https://github.com/nethen-ui/CS-Made-Easy-Textbook)** | Student-led coding education initiative in Ethiopia, authors of the *Introduction to Programming with Python* textbook |
 
 ---
